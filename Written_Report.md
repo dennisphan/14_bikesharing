@@ -1,23 +1,23 @@
 # Pewlett_Hackark_Analysis
 
 ## Overview of Project
-This project reports the number of potential retirees from 2017 to 2020 and the readiness of Pewlett Hackard to replace the retiring workforce. 
+This project is to investigate the relationship among the number of rides, trip durations, genders, usertype, day of the week, and the time of the day. 
 
 This project focuses on following items:
- - **The number of retirees by titles** summarizes total potential retirees in each title who are about to retire from 2017 to 2020.
- - **The number of retirees by titles and ages** presents the total potential retirees by title and current age. 
- - **The number of internal eligible mentors** summarizes the total elibile mentors for each title. 
- - **The number of potential candidates per mentor** calculates the number of candidates each mentor is about to coach to replace the retiring people. 
- - **The number of potential candidates per mentor** calculated the number of candidates each mentor is about to coach every year. 
+ - **Checkout times** summarizes the number of rides by trip durations. 
+ - **Checkout times by genders** presents the number of rides by trip durations and genders. 
+ - **Trips by weekday and time** depicts the number of rides by the time of the day and the day of the week. 
+ - **Trips by weekday, time, and genders** expresses the number of rides by time, weekday, and genders. 
+ - **Trips by weekday, time, genders, and user types** presents the number of rides by time, weekday, genders, and user types. 
 
 ## Analysis
 
 ### The number of retirees by titles
 Potential retirees are people who were born from 01/01/1952 to 12/31/1955. These people are about to reach retirement age (65) during the period from 2017 to 2020. According to the summary below, the company has retirees in all positions during the time from 2017 to 2020. In specific, the number of retirees as Managers are 2 (lowest), as Assistant Engineers are 1761, as Technique Leaders are 4502, as Staffs are 12242, as Engineer are 14222, as Senior Staff are 28255, and as Senior Engineers are 29414 (highest). 
 
-**The number of retirees by titles**
+**Checkout times**
 
-![The number of retirees by titles](Analysis/01_retirees_by_title.png)
+![Checkout times](Images/01_Checkout_times.png)
 
 ### The number of retirees by titles and ages
 According to the summary below, the number of retirees in each title are speading relatively evenly by age, which are 417 - 458 for Assistant Engineers, 3592 - 3682 for Engineers, 6943 - 7638 for Senior Engineers, 6655 - 7229 for Senior Staffs, 2849 - 3238 for Staffs, and 1069 - 1167 for Technique Leaders. At maanger level, one manager is about to retire each four year. Among groups, Senior Engineer and Serior Staff have the largest quantity of potential retirees. 

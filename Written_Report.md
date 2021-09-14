@@ -22,7 +22,7 @@ The total rides inspected in this project is 2,334,224. In those rides, 5/6 are 
 ### Trip durations by ages
 The trip durations of users who were born before 1925 fluctuate significantly. The lengthiest belongs to the those between 1890 and 1893 with up to 45 hours riding. For those who were born from 1925, the younger they are, the longer they ride. One exception is the group of people with birth year of around 1970. Their trip durations are long (up to 36 hours). 
 
-![Trip durations by ages](Images/06_User_types.png)
+![Trip durations by ages](Images/07_Tripduration_Ages.png)
 
 ### Checkout times
 Almost all rides are under one hour. The number of bikes checked out are peak at 6 minutes in length and decrease as the lengths increase.

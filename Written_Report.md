@@ -1,7 +1,7 @@
 # Pewlett_Hackark_Analysis
 
 ## Overview of Project
-This project is to investigate the relationship among the number of rides, trip durations, genders, usertype, day of the week, and the time of the day. The detail analysis is implemented in the file NYC_Bike_Sharing.twb. 
+This project is to investigate the relationship among the number of rides, trip durations, genders, usertype, day of the week, and the time of the day. The detail analysis is implemented in the files NYC_Bike_Sharing.twb (https://github.com/dennisphan/14_bikesharing/blob/main/NYC_Bike_Sharing.twb) and BikeSharing.twb (https://github.com/dennisphan/14_bikesharing/blob/main/BikeSharing.twb). 
 
 This project focuses on following items:
  - **User types** catetorizes number of users by regular customers and subscribers. 
@@ -38,17 +38,17 @@ Most riders are male. The number of female riders are approximately one-third of
 
 ![Checkout times by genders](Images/02_Checkout_Genders.png)
 
-### Trips by weekday and times
+### Trips by weekdays and times
 The busiest times during weekdays are from 6 to 9 AM and 5 to 8 PM. At weekends, the times are spread out throughout the day. The busiest times are at noon, from 11AM to 12PM. 
 
-**Trips by weekday and times**
+**Trips by weekdays and times**
 
 ![Trips by weekday and times](Images/03_Trips_by_times.png)
 
-### Trips by weekday, time, and genders
+### Trips by weekdays, times, and genders
 Most riders are male. A small portion of riders are female. The number of unknonwn gender are very few in comparison with the other two genders.
 
-**Trips by weekday, time, and genders**
+**Trips by weekdays, times, and genders**
 
 ![Trips by weekday, time, and genders](Images/04_Trips_Genders.png)
 
@@ -61,6 +61,11 @@ Regular customers are generally less active. Many of them have unknown gender. I
 ![Trips by weekday, times, genders, and user types](Images/05_Trips_Usertypes_Genders.png)
 
 ## Conclusion
+ - The target customers should be male riders. 
+ - Since young customers ride more, the company should focus on them as initial customers. 
+ - Unsubcribed customers tend to not disclose their information, especially genders, while subcribers are more comfortable in disclosing their genders. 
+ - During weekdays, most customers ride in the morning and in the afternoon. The company should utilize the dowm times to maintain and prepare bikes so that they are available during busy times. Advertisements should tackle these times of the day to attract attention.
+ - At weekends, people ride less in the morning and in the evening but more from 9AM to 6PM. The number of rides are equally spead out during the day with the peak at noon (11AM to 12PM). Advertisements should be done periodically throughout the day. 
 
-
-## Limit
+## Further analysis
+ - Since male riders occupy more than 70% of total riders, further analysis should focus more on male riders such as starting stations, ending stations, ages, trip durations, etc. The more the company understand its target customers the more likely the company can come up with the right strategy to approach, attract, and retain them. 

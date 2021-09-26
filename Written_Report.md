@@ -1,7 +1,7 @@
 # Pewlett_Hackark_Analysis
 
 ## Overview of Project
-This project is to investigate the relationship among the number of rides, trip durations, genders, usertype, day of the week, and the time of the day. The detail analysis is implemented in the files NYC_Bike_Sharing.twb (https://github.com/dennisphan/14_bikesharing/blob/main/NYC_Bike_Sharing.twb) and BikeSharing.twb (https://github.com/dennisphan/14_bikesharing/blob/main/BikeSharing.twb). 
+This project is to investigate the relationship among the number of rides, trip durations, genders, usertype, day of the week, and the time of the day. The detail analysis is implemented on [link to dashboard](https://public.tableau.com/app/profile/dennis.phan/viz/NYC_Bike_Sharing_16326813013300/Story1?publish=yes)
 
 This project focuses on following items:
  - **User types** catetorizes number of users by regular customers and subscribers. 
